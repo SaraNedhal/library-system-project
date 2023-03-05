@@ -1,6 +1,6 @@
 /**
  *  ITCS214 Project
- *  Students Name(ID): Marya Mohammed 20192721 - Fatima Ahmed 20198905 - Sara Nedhal 20193686
+ *  Student Name: Sara Nedhal 
  *  Section: 07
  * */
 import java.util.*;
